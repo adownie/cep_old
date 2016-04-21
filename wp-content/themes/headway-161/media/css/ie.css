@@ -1,0 +1,21 @@
+ul.navigation li ul li ul,
+ul.navigation li ul li ul li ul,
+ul.navigation li ul li ul li ul li ul,
+ul.navigation li ul li ul li ul li ul li ul,
+ul.navigation li ul li ul li ul li ul li ul li ul {
+	position: absolute;
+	margin-left: 250px;
+	float: right;
+	left: 0;
+	top: 0; }
+
+ul.navigation li ul {
+	top: 36px;
+	left: 0;
+	z-index: 11005; }
+  
+div#container { padding-bottom: 5px; }
+ 
+div#footer { margin: 10px 0 0; }
+ 
+.about-image { margin-top: 10px; }

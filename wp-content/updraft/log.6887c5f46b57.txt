@@ -1,0 +1,8 @@
+0000.004 () Opened log file at time: Wed, 16 Apr 2014 16:16:34 +0000 on http://chicagoestateplanning.com
+0000.004 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.0 WP: 3.8.3 PHP: 5.2.17 (Linux box572.bluehost.com 3.4.79-20140208.1.bh6.x86_64 #1 SMP Sat Feb 8 12:29:59 EST 2014 x86_64) MySQL: 5.5.37-log Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38.9M | 39.3M) multisite: N mcrypt: Y ZipArchive::addFile: Y
+0000.172 () Free space on disk containing Updraft's temporary directory: 58257.1 Mb
+0000.172 () Restore job started. Entities to restore: plugins, themes, uploads, others, db
+0000.187 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home6/chicagx4/public_html/chicagoestateplanning/wp-content/plugins-old
+0000.188 () Restore failed...
+0000.188 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /home6/chicagx4/public_html/chicagoestateplanning/wp-content/plugins-old
+0000.188 () Restore failed

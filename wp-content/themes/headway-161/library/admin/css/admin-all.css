@@ -1,0 +1,13 @@
+tr.form-field input.check, tr.form-field input.radio { width: 16px; }
+table.form-table tr.label:first-child th { padding: 10px 10px 3px 10px; }
+table.form-table tr.label { margin-top: 15px; }
+table.form-table tr.label th { padding: 20px 10px 3px 10px; }
+table.form-table tr.label th label { font-weight: bold; font-size: 14px; color: #444; }
+table.form-table tr.description td { padding: 0 10px 10px; }
+table.form-table tr.description p { color: #777; font-size: 11px; margin-top: 0 !important; }
+table.form-table label.selectit { font-size: 12px; color: #333; }
+table.form-table label.selectit input { margin: -4px 3px 0 0; }
+p.notice{background:#fff6bf;border:1px solid #ffd324;border-color:#ffd324;color:#514721;float:left;margin:10px 0;padding:5px;width:97%;}
+#update-nag{
+	display: none;
+}

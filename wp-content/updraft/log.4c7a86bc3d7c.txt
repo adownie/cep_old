@@ -1,0 +1,71 @@
+0000.023 () Opened log file at time: Wed, 16 Apr 2014 16:00:30 +0000 on http://chicagoestateplanning.com
+0000.023 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.0 WP: 3.8.3 PHP: 5.2.17 (Linux box572.bluehost.com 3.4.79-20140208.1.bh6.x86_64 #1 SMP Sat Feb 8 12:29:59 EST 2014 x86_64) MySQL: 5.5.37-log Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38.9M | 39.3M) multisite: N mcrypt: Y ZipArchive::addFile: Y
+0000.193 () Free space on disk containing Updraft's temporary directory: 58296.2 Mb
+0000.193 () Restore job started. Entities to restore: plugins, themes, uploads, others, db
+0000.236 () Entity: db
+0000.236 () restore_backup(backup_file=backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-db.gz, type=db, info=a:0:{}, last_one=)
+0000.236 () Unpacking backup...
+0000.248 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.249 () Using direct MySQL access; value of use_mysqli is: 0
+0000.250 () Max packet size: 256 Mb
+0000.251 () Backup created by: 1.9.0
+0000.251 () <strong>Backup of:</strong> http://chicagoestateplanning.com
+0000.251 () Content URL: http://chicagoestateplanning.com/wp-content
+0000.252 () Old table prefix: wp_
+0000.252 () Site information: multisite=0
+0000.254 () New table prefix: wp_
+0000.261 () Restoring table (MyISAM): wp_options
+0000.350 () Restoring table (MyISAM): wp_users
+0000.360 () Restoring table (MyISAM): wp_usermeta
+0000.371 () Restoring table (MyISAM): wp_commentmeta
+0000.379 () Restoring table (MyISAM): wp_comments
+0000.386 () Restoring table (MyISAM): wp_links
+0000.393 () Restoring table (MyISAM): wp_postmeta
+0000.493 () Restoring table (MyISAM): wp_posts
+0000.605 () Restoring table (MyISAM): wp_term_relationships
+0000.664 () Restoring table (MyISAM): wp_term_taxonomy
+0000.673 () Restoring table (MyISAM): wp_terms
+0000.681 () Restoring table (MyISAM): wp_contact_form_7
+0000.695 () Restoring table (MyISAM): wp_email
+0000.705 () Restoring table (MyISAM): wp_headway_elements
+0000.758 () Database queries processed: 50 in 0.51 seconds
+0000.760 () Restoring table (MyISAM): wp_headway_leafs
+0000.773 () Restoring table (MyISAM): wp_headway_misc
+0000.795 () Restoring table (MyISAM): wp_headway_options
+0000.815 () Restoring table (MyISAM): wp_redirection_404
+0000.826 () Restoring table (MyISAM): wp_redirection_groups
+0000.833 () Restoring table (MyISAM): wp_redirection_items
+0000.842 () Restoring table (MyISAM): wp_redirection_logs
+0001.164 () Restoring table (MyISAM): wp_redirection_modules
+0001.171 () Finished: lines processed: 95 in 0.92 seconds
+0001.171 () Cleaning up rubbish...
+0001.202 () Entity: plugins
+0001.202 () restore_backup(backup_file=backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:68:"/home6/chicagx4/public_html/chicagoestateplanning/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.202 () Unpacking backup... (backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-plugins.zip)
+0001.767 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.768 () Moving old data: can potentially use wp_filesystem method / -old
+0001.768 () Moving old data out of the way...
+0002.652 () Moving unpacked backup into place...
+0003.041 () Cleaning up rubbish...
+0003.041 () Entity: themes
+0003.041 () restore_backup(backup_file=backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-themes.zip, type=themes, info=a:2:{s:4:"path";s:67:"/home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0003.042 () Unpacking backup... (backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-themes.zip)
+0003.218 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.218 () Moving old data: can potentially use wp_filesystem method / -old
+0003.218 () Moving old data out of the way...
+0003.510 () Moving unpacked backup into place...
+0003.686 () Cleaning up rubbish...
+0003.687 () Entity: uploads
+0003.687 () restore_backup(backup_file=backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:68:"/home6/chicagx4/public_html/chicagoestateplanning/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0003.687 () Unpacking backup... (backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-uploads.zip)
+0003.755 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.756 () Moving old data: can potentially use wp_filesystem method / -old
+0003.756 () Moving old data out of the way...
+0003.864 () Moving unpacked backup into place...
+0003.873 () Cleaning up rubbish...
+0003.873 () Entity: others
+0003.873 () restore_backup(backup_file=backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-others.zip, type=others, info=a:2:{s:4:"path";s:60:"/home6/chicagx4/public_html/chicagoestateplanning/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0003.873 () Unpacking backup... (backup_2014-04-16-1056_Chicago_Estate_Planning_90c1232e3a27-others.zip)
+0003.879 () Cleaning up rubbish...
+0003.884 () Restore successful!
+0003.884 () Restore successful

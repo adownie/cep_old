@@ -1,0 +1,9 @@
+0000.000 (0) Opened log file at time: Fri, 31 Oct 2014 17:53:28 +0000 on http://chicagoestateplanning.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.30 WP: 3.9.2 PHP: 5.2.17 (Linux box572.bluehost.com 3.12.26.1408748414 #1 SMP Fri Aug 22 18:03:32 CDT 2014 x86_64) MySQL: 5.5.38-35.2-log Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.3M | 38.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.221 (0) Free space on disk containing Updraft's temporary directory: 67370.7 Mb
+0000.226 (0) Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.229 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 
+0000.232 (0) Decremented the semaphore (fd) by 1
+0000.234 (0) Semaphore (fd) still locked
+0000.235 (0) No email will be sent - this backup set was empty.
+0000.236 (0) The backup apparently succeeded and is now complete

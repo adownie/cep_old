@@ -1,0 +1,7 @@
+[29-Feb-2016 13:20:50 America/Denver] PHP Fatal error:  Call to undefined function headway_html_open() in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/header.php on line 1
+[29-Feb-2016 13:20:51 America/Denver] PHP Notice:  Use of undefined constant TEMPLATEPATH - assumed 'TEMPLATEPATH' in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/functions.php on line 11
+[29-Feb-2016 13:20:51 America/Denver] PHP Fatal error:  Call to undefined function get_bloginfo() in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/functions.php on line 21
+[29-Feb-2016 13:20:51 America/Denver] PHP Fatal error:  Call to undefined function headway_footer() in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/footer.php on line 1
+[12-Mar-2016 19:29:06 America/Denver] PHP Notice:  Use of undefined constant TEMPLATEPATH - assumed 'TEMPLATEPATH' in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/functions.php on line 11
+[12-Mar-2016 19:29:06 America/Denver] PHP Fatal error:  Call to undefined function get_bloginfo() in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/functions.php on line 21
+[12-Mar-2016 19:29:07 America/Denver] PHP Fatal error:  Call to undefined function headway_footer() in /home6/chicagx4/public_html/chicagoestateplanning/wp-content/themes/headway-161/footer.php on line 1

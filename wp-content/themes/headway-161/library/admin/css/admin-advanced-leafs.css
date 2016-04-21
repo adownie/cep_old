@@ -1,0 +1,23 @@
+h3.border-bottom {
+	border-bottom: 1px solid #ddd;
+	margin: 10px 0 0;
+	padding-bottom:10px;
+}
+.row-border-top { border-top: 1px solid #ddd; }
+.row-border-top th, .row-border-top td { padding-top: 10px; }
+.gallery-admin-photos-container {
+	width: 100%;
+}
+.gallery-admin-photo-small{
+	padding:5px 5px 0;
+	text-align:center;
+	width:90px;
+	border: 1px solid #ddd;
+	margin: 8px;
+	float: left;
+}
+.gallery-admin-photo-small-edit { 
+	border-color: #ccc;
+	background: #e7e7e7;
+}
+div.error ul li { margin: 5px 0; }

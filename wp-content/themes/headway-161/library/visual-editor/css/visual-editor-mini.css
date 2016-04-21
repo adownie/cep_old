@@ -1,0 +1,3 @@
+p#visual-editor-link { margin: 0; }
+p#visual-editor-link a{ padding: 9px 14px; background: url("../images/collapsable_bg.jpg") repeat-x scroll 0 0 #393939; color: #eee; font-size: 1.2em; font-family: Helvetica, sans-serif; text-decoration: none; margin: 0 0 0 30px; clear: both; float: left; position: absolute; top: 0; right: 30px; -moz-border-radius-bottomright: 8px; -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-right-radius: 8px; -webkit-border-bottom-left-radius: 8px; opacity: 0.95; }
+p#visual-editor-link a:hover { opacity: 1; text-decoration: underline; }

@@ -1,0 +1,4 @@
+[13-Apr-2016 15:02:48 UTC] PHP Warning:  mysqli_real_connect(): (42000/1203): User chicagx4_vardex already has more than 'max_user_connections' active connections in /home6/chicagx4/public_html/chicagoestateplanning/wp-includes/wp-db.php on line 1489
+[13-Apr-2016 15:02:48 UTC] PHP Warning:  mysql_connect(): User chicagx4_vardex already has more than 'max_user_connections' active connections in /home6/chicagx4/public_html/chicagoestateplanning/wp-includes/wp-db.php on line 1515
+[13-Apr-2016 15:02:49 UTC] PHP Warning:  mysqli_real_connect(): (42000/1203): User chicagx4_vardex already has more than 'max_user_connections' active connections in /home6/chicagx4/public_html/chicagoestateplanning/wp-includes/wp-db.php on line 1489
+[13-Apr-2016 15:02:49 UTC] PHP Warning:  mysql_connect(): User chicagx4_vardex already has more than 'max_user_connections' active connections in /home6/chicagx4/public_html/chicagoestateplanning/wp-includes/wp-db.php on line 1515

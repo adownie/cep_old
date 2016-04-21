@@ -1,0 +1,19 @@
+div.headway-leaf {
+	display: inline;
+	margin: 4px;
+	padding: 9px 9px 0; }
+ 
+ul.navigation li a { display: inline; }
+
+li.widget {
+	display: inline;
+	margin: 15px 0;
+	float: left;
+	clear: both;
+	width: 100%; }
+ 
+div.horizontal-sidebar ul li.widget {
+	width: 19%;
+	clear: none; }
+
+div#top { display: inline; }

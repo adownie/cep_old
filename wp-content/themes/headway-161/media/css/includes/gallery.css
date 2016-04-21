@@ -1,0 +1,38 @@
+div.gallery div.content{display:none;float:right;}
+div.gallery div.content a, div.gallery div.navigation a{text-decoration:none;color:#777;}
+div.gallery div.content a:focus, div.gallery div.content a:hover, div.gallery div.content a:active{text-decoration:underline;}
+div.gallery div.controls{margin-top:5px;height:23px;}
+div.gallery div.controls a{padding:5px;}
+div.gallery div.ss-controls{float:left;}
+div.gallery div.nav-controls{float:right;}
+div.gallery div.loader{background-image:url('../../images/loading.gif');background-repeat:no-repeat;background-position:center;}
+div.gallery div.slideshow{clear:both;}
+div.gallery div.slideshow span.image-wrapper{float:left;padding-bottom:12px;}
+div.gallery div.slideshow a.advance-link{padding:2px;display:block;border:1px solid #ccc;}
+div.gallery div.slideshow img{border:none;display:block;}
+div.gallery div.download{float:right;}
+div.gallery div.caption{clear:both;border:1px solid #ccc;background-color:#eee;padding:9px;}
+div.gallery div.caption p { margin: 5px 0; }
+div.gallery ul.thumbs{clear:both;margin:0;padding:0;}
+div.gallery ul.thumbs li{float:left;padding:0;margin:5px 10px 5px 0;list-style:none;}
+	.thumbnails-right ul.thumbs li{ margin: 5px 0 5px 10px; float: right; }
+	div.gallery .navigation { float: left; }
+	.thumbnails-left .navigation, .thumbnails-right .content, .thumbnails-left .pagination { float: left; }
+	.thumbnails-right .navigation, .thumbnails-left .content, .thumbnails-right .pagination { float: right; }
+	.thumbnails-top .navigation { margin: -10px 0 15px; }
+	.thumbnails-bottom .navigation { margin: 10px 0 0; }
+
+div.gallery a.thumb{padding:2px;display:block;border:1px solid #ccc;}
+div.gallery ul.thumbs li.selected a.thumb{background:#333;}
+div.gallery a.thumb:focus{outline:none;}
+div.gallery ul.thumbs img{border:none;display:block;}
+div.gallery div.pagination{clear:both;}
+div.gallery div.navigation div.top{margin-bottom:12px;height:11px;}
+div.gallery div.navigation div.bottom{margin-top:12px;}
+div.gallery div.pagination a,div.pagination span.current{display:block;float:left;margin-right:2px;padding:4px 7px 2px 7px;border:1px solid #ccc;}
+div.gallery div.pagination a:hover{background-color:#eee;text-decoration:none;}
+div.gallery div.pagination span.current{font-weight:bold;background-color:#000;border-color:#000;color:#fff;}
+
+.thumbs-min ul.thumbs li{float:none;padding:0;margin:0;list-style:none;}
+.thumbs-min a.thumb{padding:0px;display:inline;border:none;}
+.thumbs-min ul.thumbs li.selected a.thumb{background:inherit;color:#111;font-weight:bold;}
